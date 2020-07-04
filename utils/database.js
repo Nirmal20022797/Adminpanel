@@ -1,11 +1,11 @@
 const Sequelize  = require('sequelize');
 const sequelize  = new Sequelize(
-    'web',
-    'root',
-    '',
+    'b7ylarpkkvj72vjpct2t',
+    'ukgtlvfa05jaluq7',
+    'kR0XzVkq4CHh1ipkJi0A',
     {
         dialect : 'mysql',
-        host: 'localhost',
+        host: 'b7ylarpkkvj72vjpct2t-mysql.services.clever-cloud.com',
     }
 );
 
