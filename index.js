@@ -8,7 +8,7 @@ var app = express()
 //var connection = require('./connection');
 
 
-const PORT = 3000;
+const PORT = process.env.PORT;
 
 
 app.use(bodyParser.json({limit: "50mb"}));
