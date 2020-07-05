@@ -857,7 +857,7 @@ module.exports = {
 
 
     },
-    /* getAllAdmin : (req ,res) => {
+    getAllAdmin : (req ,res) => {
         console.log("in get all admin method");
         var query = "SELECT * FROM `admin` WHERE role = 'admin'";
         conn.query(query , (err , result) => {
@@ -875,7 +875,7 @@ module.exports = {
             }
         })
   
-    }, */
+    },
     getadmin: (req, res) => {
 
 
