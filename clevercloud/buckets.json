@@ -1,0 +1,13 @@
+[
+    {
+      "bucket" : "bucket_fd088cfb-28a0-4a3d-8ea7-892fde15a36e",
+      "folder" : "/upload"
+     
+  
+    },
+    {
+      "bucket_host" : "bucket-fd088cfb-28a0-4a3d-8ea7-892fde15a36e-fsbucket.services.clever-cloud.com",
+      "folder" : "/upload"
+      
+    }
+  ]
